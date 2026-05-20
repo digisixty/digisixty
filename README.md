@@ -1,54 +1,110 @@
-# Hey, I'm [Your Name] 👋
+<div align="center">
 
-Lead Full Stack Developer based in [City]. I spend most of my time in the JavaScript/TypeScript world — React on the front, Node on the back, Next.js when it makes sense (and sometimes when it doesn't).
+# DIGISIXTY
 
-I've been writing code professionally for about [X] years. Started out doing freelance frontend work, ended up leading teams. Funny how that happens.
+### Full Stack Developer — JS/TS, mostly
 
----
+<p align="center">
+  <a href="https://github.com/digi3sixty">
+    <img src="https://img.shields.io/github/followers/digi3sixty?label=Followers&style=for-the-badge&color=0ea5e9" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=digi3sixty&style=for-the-badge&color=0ea5e9" />
+</p>
 
-### What I'm doing right now
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Shipping+things+that+work" />
+</p>
 
-- Leading a small team building a [type of product] at [Company or "stealth-mode startup"]
-- Tinkering with [side project] on weekends — it's still rough but I like where it's going
-- Trying to get better at writing — both code and the kind with words
-
-### Things I actually use day to day
-
-**Frontend:** React, Next.js, TypeScript, Tailwind, a bit of Zustand and TanStack Query
-**Backend:** Node.js, Express, NestJS, tRPC when the project fits
-**Database:** PostgreSQL mostly, Redis for caching, Prisma as the ORM
-**Infra:** Docker, AWS (mostly ECS and Lambda), GitHub Actions, a healthy fear of YAML
-**Other stuff:** Jest, Playwright, occasionally Python when I have to
-
-I've shipped enough to know that the "best" stack is usually whatever the team can maintain at 2am.
+</div>
 
 ---
 
-### Some things I've built
+## About
 
-**[Project Name]** — [one-line description]
-Built with Next.js and Postgres. Handles around [X] users a day. [Link]
+I build web apps. Mostly with React and Node, sometimes whatever the project actually needs.
 
-**[Project Name]** — [one-line description]
-A [thing] I built because I couldn't find one that didn't annoy me. [Link]
+Been doing this long enough to care less about the stack and more about whether the thing ships and doesn't fall over at 2am. Currently working on a few client projects and one stubborn side project that I keep telling myself is almost done.
 
-**[Project Name]** — [one-line description]
-Open source, MIT, contributions welcome. [Link]
+If you've found this page somehow — hi. Feel free to poke around the repos.
 
 ---
 
-### Stats, if you're into that
+## What I'm into right now
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+- LLM-powered tooling — not the chatbot kind, the boring useful kind
+- Getting better at infrastructure (the AWS console still scares me sometimes, and I think that's healthy)
+- Trying to write less code per feature
 
 ---
 
-### Reach out
+## Tech Stack
 
-- Email: [your@email.com]
-- LinkedIn: [linkedin.com/in/yourhandle]
-- Site: [yoursite.dev]
+<div align="center">
 
-Open to interesting conversations — consulting, collaborations, or just talking shop. Cold pitches that obviously didn't read past the first line will be quietly ignored.
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,sass,html,css,flutter" />
+</p>
+
+#### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres,firebase" />
+</p>
+
+#### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github,figma,vscode" />
+</p>
+
+</div>
+
+> Honest disclaimer: I reach for React, Next, Node, Postgres and Tailwind on most projects. The rest of these I've shipped real things with, but some I touch more often than others.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=digi3sixty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digi3sixty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=digi3sixty&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=digi3sixty&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+## Get in touch
+
+<div align="center">
+
+<a href="https://github.com/digi3sixty">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+<a href="mailto:support@digi3sixty.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+<a href="https://linkedin.com">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+Open to freelance work, collaborations, or a decent argument about tabs vs spaces.
+
+</div>
