@@ -25,13 +25,11 @@ I build and lead teams that build web apps. Mostly React and Node, with whatever
 
 Been doing this long enough to care less about the stack and more about whether the thing ships and doesn't fall over at 2am. These days my work is split between writing code, reviewing it, and arguing about architecture in Slack threads that should've been a 10-minute call.
 
-If you've found this page somehow — hi. Feel free to poke around the repos.
-
 ---
 
 ## What I'm into right now
 
-- LLM-powered tooling — not the chatbot kind, the boring useful kind
+- LLM-powered tooling not the chatbot kind, the boring useful kind
 - Mentoring devs out of the "rewrite everything" phase
 - Trying to keep our infra boring on purpose
 - Writing less code per feature
