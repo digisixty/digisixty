@@ -2,7 +2,7 @@
 
 # DIGISIXTY
 
-### Full Stack Developer — JS/TS, mostly
+### Lead Full Stack Developer — JS/TS, mostly
 
 <p align="center">
   <a href="https://github.com/digi3sixty">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Shipping+things+that+work" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Lead+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Shipping+things+that+work" />
 </p>
 
 </div>
@@ -21,9 +21,9 @@
 
 ## About
 
-I build web apps. Mostly with React and Node, sometimes whatever the project actually needs.
+I build and lead teams that build web apps. Mostly React and Node, with whatever else the project actually calls for.
 
-Been doing this long enough to care less about the stack and more about whether the thing ships and doesn't fall over at 2am. Currently working on a few client projects and one stubborn side project that I keep telling myself is almost done.
+Been doing this long enough to care less about the stack and more about whether the thing ships and doesn't fall over at 2am. These days my work is split between writing code, reviewing it, and arguing about architecture in Slack threads that should've been a 10-minute call.
 
 If you've found this page somehow — hi. Feel free to poke around the repos.
 
@@ -32,8 +32,9 @@ If you've found this page somehow — hi. Feel free to poke around the repos.
 ## What I'm into right now
 
 - LLM-powered tooling — not the chatbot kind, the boring useful kind
-- Getting better at infrastructure (the AWS console still scares me sometimes, and I think that's healthy)
-- Trying to write less code per feature
+- Mentoring devs out of the "rewrite everything" phase
+- Trying to keep our infra boring on purpose
+- Writing less code per feature
 
 ---
 
@@ -59,6 +60,15 @@ If you've found this page somehow — hi. Feel free to poke around the repos.
 </div>
 
 > Honest disclaimer: I reach for React, Next, Node, Postgres and Tailwind on most projects. The rest of these I've shipped real things with, but some I touch more often than others.
+
+---
+
+## A few things I believe after enough years of this
+
+- Boring tech wins. The exciting one will be legacy in 18 months anyway.
+- Code review is mentoring with extra steps.
+- If a junior can't ship to it, the abstraction is wrong.
+- Most "we need to rewrite this" conversations end after a week of reading the existing code properly.
 
 ---
 
@@ -105,6 +115,6 @@ If you've found this page somehow — hi. Feel free to poke around the repos.
 
 <div align="center">
 
-Open to freelance work, collaborations, or a decent argument about tabs vs spaces.
+Open to lead/staff roles, consulting, or a decent argument about tabs vs spaces.
 
 </div>
