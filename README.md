@@ -1,131 +1,54 @@
-<div align="center">
+# Hey, I'm [Your Name] 👋
 
-# DIGISIXTY
+Lead Full Stack Developer based in [City]. I spend most of my time in the JavaScript/TypeScript world — React on the front, Node on the back, Next.js when it makes sense (and sometimes when it doesn't).
 
-### Full Stack Developer • UI/UX Engineer • Digital Creator
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Experiences;React+%7C+Next.js+%7C+Node.js;Creating+Fast+%26+Scalable+Applications" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/digisixty">
-    <img src="https://img.shields.io/github/followers/digisixty?style=for-the-badge&color=0ea5e9&labelColor=111827" />
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=digisixty&style=for-the-badge&color=0ea5e9" />
-</p>
-
-</div>
+I've been writing code professionally for about [X] years. Started out doing freelance frontend work, ended up leading teams. Funny how that happens.
 
 ---
 
-# 💫 About Me
+### What I'm doing right now
 
-```yaml
-Name: DIGISIXTY
-Focus: Full Stack Development
-Specialty: Modern UI/UX + Scalable Applications
-Tech Passion: React Ecosystem & Cloud Architecture
-Currently Learning: AI Integrations & Advanced Systems
-```
+- Leading a small team building a [type of product] at [Company or "stealth-mode startup"]
+- Tinkering with [side project] on weekends — it's still rough but I like where it's going
+- Trying to get better at writing — both code and the kind with words
 
-I build modern digital products with clean architecture, beautiful interfaces, and scalable backend systems.
+### Things I actually use day to day
 
----
+**Frontend:** React, Next.js, TypeScript, Tailwind, a bit of Zustand and TanStack Query
+**Backend:** Node.js, Express, NestJS, tRPC when the project fits
+**Database:** PostgreSQL mostly, Redis for caching, Prisma as the ORM
+**Infra:** Docker, AWS (mostly ECS and Lambda), GitHub Actions, a healthy fear of YAML
+**Other stuff:** Jest, Playwright, occasionally Python when I have to
 
-# 🚀 Tech Stack
-
-<div align="center">
-
-## Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,sass,html,css,flutter" />
-</p>
+I've shipped enough to know that the "best" stack is usually whatever the team can maintain at 2am.
 
 ---
 
-## Backend
+### Some things I've built
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres,firebase" />
-</p>
+**[Project Name]** — [one-line description]
+Built with Next.js and Postgres. Handles around [X] users a day. [Link]
 
----
+**[Project Name]** — [one-line description]
+A [thing] I built because I couldn't find one that didn't annoy me. [Link]
 
-## DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github,figma,vscode" />
-</p>
-
-</div>
+**[Project Name]** — [one-line description]
+Open source, MIT, contributions welcome. [Link]
 
 ---
 
-# 📊 GitHub Analytics
+### Stats, if you're into that
 
-<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=digisixty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digisixty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
 
 ---
 
-# 🔥 Contribution Streak
+### Reach out
 
-<div align="center">
+- Email: [your@email.com]
+- LinkedIn: [linkedin.com/in/yourhandle]
+- Site: [yoursite.dev]
 
-<img src="https://streak-stats.demolab.com?user=digisixty&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=digisixty&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/digisixty">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
-<a href="mailto:support@digi3sixty.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-<a href="https://linkedin.com">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-</div>
-
----
-
-# ⚡ Philosophy
-
-> Build clean.  
-> Build scalable.  
-> Build experiences people remember.
-
----
-
-<div align="center">
-
-### 🚀 Turning ideas into digital experiences
-
-</div>
+Open to interesting conversations — consulting, collaborations, or just talking shop. Cold pitches that obviously didn't read past the first line will be quietly ignored.
